@@ -73,5 +73,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 - [Flask](https://flask.palletsprojects.com/)
 - [YouTube Transcript API](https://github.com/jdepoix/youtube-transcript-api)  (Requires Version 1.1.1)
-- [Pytube](https://pytube.io/)
 - [Azure OpenAI](https://azure.microsoft.com/en-us/services/cognitive-services/openai-service/)
