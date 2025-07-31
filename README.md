@@ -60,7 +60,7 @@ This project is a Flask web application that summarizes YouTube video transcript
 
 ## Running with PowerShell and Batch Script
 
-1. Run the batch script to start the application and open it in the browser:
+1. Run the batch script to start the application.
     ```sh
     YouTube sum.bat
     ```
